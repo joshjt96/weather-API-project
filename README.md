@@ -1,1 +1,1 @@
-# weather-API-project
+Learning API with a weather display project
